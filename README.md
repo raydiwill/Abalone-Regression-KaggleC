@@ -7,4 +7,6 @@ By the time I updated the README, my leaderboard position was:
 
 ![](2nd-kaggle.png)
 
-Not the result I wanted, but this series gives me lots of opportunities to continuously practice my ML skills. You can checkout the [notebook](model.ipynb) to see how I got the score. Cheers :)!
+Not the result I wanted, but this series gives me lots of opportunities to continuously practice my ML skills. You can checkout the [notebook](model.ipynb) to see how I got the score. Also, if you're interested, have a look at my [repo](https://github.com/raydiwill/Home-Credit-KaggleC) for the Kaggle prized competition
+
+Cheers :)!
